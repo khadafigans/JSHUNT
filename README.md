@@ -1,4 +1,4 @@
-# 🔍 JS Hunt - JavaScript Credentials Hunter
+# JS Hunt - JavaScript Credentials Hunter
 
 This Python toolkit is designed to hunt for high-value secrets, API keys, and database credentials exposed within JavaScript files found on target web applications.
 
